@@ -1,6 +1,6 @@
 # opensource
 
-This is thought as a cheatsheet for researchers who want to start an open-source library.
+A cheatsheet for researchers who want to start an open-source library.
 
 Here you will find information to design, build, and release an open-source library to perform scientific research in Python from scratch to finish. *In development*
 
