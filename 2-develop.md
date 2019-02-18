@@ -1,6 +1,9 @@
 # Developing your code
 
 
+## Choosing a text editor
+Every coder has her own favourite editor. Mine is [Sublime](https://www.sublimetext.com/3): dark background, nice syntax rendering, intuitive IDE and customizable settings. 
+
 ## Jupyter Notebooks
 [Jupyter](https://jupyter.org/) is an interactive way to develop code. 
 
@@ -17,7 +20,7 @@ Some features of the interactive notebook:
 
 - You can intersperse code with LaTeX, the prototyping choice for many researchers.  
 
-- You can run blocks of code in the order you prefer, just like in Mathematica and Matlab. 
+- You can run blocks of code in the order you prefer, just like in Mathematica and MATLAB. 
 
 - Graphics are supported in the notebook, for example with the excellent Matplotlib library. 
 
