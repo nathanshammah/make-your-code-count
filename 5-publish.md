@@ -24,7 +24,7 @@ In order to host your library on conda-forge is to create a file with all the de
 This file has a .yaml extension and can be a few lines long. See the guidelines [here](https://conda-forge.org/docs/recipe.html). 
 
 ## Publish peer-reviewed research papers that use the library 
-This is probably the standard output that physicists have been aiming at even before the advent of open-source software development. 
+This is probably the standard output that scientists as physicists have been aiming at even before the advent of open-source software development. 
 This is still one of the main markers in academic activity. 
 
 ## Publish the library and dataset on Zenodo
@@ -59,5 +59,5 @@ The papers of the QuSpin library have been published there.
 - PLOS One, which ran a special issue focusing on quantum software.  
 
 ## Host on JupyterHub
-If you would like your software capabilities to be used by a delocalized team, without even requiring someone to download the software of install it, this can be done with JupyterHub as well as private services offered by some startups. 
+If you would like your software capabilities to be used by a delocalized team, without even requiring someone to download the software of install it, this can be done with [JupyterHub](https://github.com/jupyterhub/jupyterhub) as well as private services offered by some startups. 
  
