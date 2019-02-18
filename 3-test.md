@@ -6,9 +6,38 @@ Shahnawaz Ahmed once told me that his professor once told the class that "untest
 ## Testing locally: writing the tests
 - Set up a file with your testing function. Ideally, each function should have a test function. 
 
+For example, in `test_dicke.py`, there is a class, `TestDicke` testing the `Dicke` class from the `piqs` library,
+
+```python
+import numpy as np
+from numpy.testing import (assert_, run_module_suite, assert_raises,
+                           assert_array_equal, assert_array_almost_equal,
+                           assert_almost_equal, assert_equal)
+from piqs import *
+class TestDicke:
+    """
+    A test class for the Permutational Invariant Quantum Solver (PIQS) from the Dicke class.
+    """
+
+    def test_num_dicke_states(self):
+        """
+        Test the `num_dicke_states` function.
+        """
+        N_list = [1, 2, 3, 4, 5, 6, 9, 10, 20, 100, 123]
+        dicke_states = [num_dicke_states(i) for i in N_list]
+        assert_array_equal(dicke_states, [2, 4, 6, 9, 12, 16, 30, 36, 121,
+                                          2601, 3906])
+        N = -1
+        assert_raises(ValueError, num_dicke_states, N)
+        N = 0.2
+        assert_raises(ValueError, num_dicke_states, N)
+if __name__ == "__main__":
+    run_module_suite()
+```
+
 ## Testing locally: automated tests
-- Set up a testing script. There are a couple of options, nose, nose2 and pytest.  
+- Set up a testing script. There are a couple of options, nose, nose2 and pytest.
 
 ## Automated cloud testing
-- Set up Travis CI. This continuous integration tool checks that your GitHub is always passing the tests according to the specifics set up by you.
+- Set up [Travis CI](https://travis-ci.org). This continuous integration tool checks that every pull request to your GitHub project is always passing the tests according to the specifics set up by you.
 That is, Travis CI every time installs from scratch all the dependencies on a clean machine. 
