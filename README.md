@@ -1,4 +1,4 @@
-# Scientific Open-Source Library Guide
+# A Guide to Building Your Open-Source Science Library
 
 A cheatsheet to develop a scientific open-source library from scratch.
 
