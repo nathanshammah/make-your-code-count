@@ -1,7 +1,6 @@
 # Testing your code
 
-Shahnawaz Ahmed once told me that his professor once told the class that "untested code is broken code". Well, that's true. 
-
+"Untested code is broken code". Unit testing makes sure that different components of software (each unit) work properly. To do so, all one has to do is to write some functions that perform some basic check of the purported result in a simple instance. 
 
 ## Testing locally: writing the tests
 - Set up a file with your testing function. Ideally, each function should have a test function. 
