@@ -1,8 +1,11 @@
 # Developing your code
 
-
 ## Choosing a text editor
-Every coder has her own favourite editor. Mine is [Sublime](https://www.sublimetext.com/3): dark background, nice syntax rendering, intuitive IDE and customizable settings. 
+Every coder has her own favourite editor. Mine is [Sublime](https://www.sublimetext.com/3): it is crisp and favours focusing, the default dark background is relaxing, it provide appealing syntax and color rendering, it has a minimal intuitive IDE (and customizable settings). 
+
+## Best practices in code prototyping: PEP8 in Python
+Professional code developers abide to some prototyping rules. Keeping in mind that code is more read than written, these are best practices that become very useful also for non-professional developers. 
+In Python, [PEP8](https://www.python.org/dev/peps/pep-0008/) is a short guide that is a suggested reading before starting to code. It includes low level rules about spacing, indentation, and so on. As well as these might look a micromanaging effort at first, they really help uniform code written by different person, avoiding that "what th heck...?!" feeling that you might have experienced at first sight when reading someone else's code. For more best practices, see the [documentation section](4-docs.md).
 
 ## Jupyter Notebooks
 [Jupyter](https://jupyter.org/) is an interactive way to develop code. 
