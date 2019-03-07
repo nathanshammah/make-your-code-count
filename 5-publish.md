@@ -1,4 +1,4 @@
-# Pubishing
+# Publishing
 
 
 ## Release the library online
