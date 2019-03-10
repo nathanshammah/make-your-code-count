@@ -1,6 +1,8 @@
 #!/usr/bin/env python
-
-from distutils.core import setup
+"""
+Setup file created
+"""
+from setuptools import setup
 
 setup(name='mylibrary',
       version='0.1',
