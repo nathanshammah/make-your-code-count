@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-
+"""
+Setup file created
+"""
 from setuptools import setup
 
 setup(name='mylibrary',
