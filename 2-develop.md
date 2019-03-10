@@ -10,12 +10,12 @@ In Python, [PEP8](https://www.python.org/dev/peps/pep-0008/) is a short guide th
 ## Jupyter Notebooks
 [Jupyter](https://jupyter.org/) is an interactive way to develop code. 
 
-Some have gone as far as saying that [the scientific paper is obslote](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/). We can certainly agree on the fact that numerical notebooks are a novel way to perform research. 
+Some have gone as far as saying that [the scientific paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/). We can certainly agree on the fact that notebooks are a novel way to perform research and present it to others.
 They were introduced by Wolfram Mathematica, extended in Matlab, and possibly perfected in IPython and Jupyter. 
 
 Jupyter is simply the continuation of the IPython project (interactive Python). 
 
-As pointed out by Guido Van Rossum, the creator of Python, Guido Van Rossum, scientific research is a trial-and-error creative approach. The faster the interactive feedback loop, the faster the distillation of ideas from code. (See it here at the [59:30 minute](https://youtu.be/ghwaIiE3Nd8?t=3528)).
+As pointed out by Guido Van Rossum, the creator of Python, scientific research is a trial-and-error creative approach. The faster the interactive feedback loop, the faster the distillation of ideas from code. (See it here at the [59:30 minute](https://youtu.be/ghwaIiE3Nd8?t=3528)).
 
 Some features of the interactive notebook:
 
@@ -27,11 +27,11 @@ Some features of the interactive notebook:
 
 - Graphics are supported in the notebook, for example with the excellent Matplotlib library. 
 
-To install Jupyter, with conda simply run in the Terminal
+To install Jupyter, with conda simply run the following in the terminal
 
 `conda install jupyter`
 
-To launch From the Terminal, go to the folder of choice and run
+To launch from the terminal, go to the folder of choice and run
 
 `jupyter notebook`
 
