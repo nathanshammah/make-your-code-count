@@ -58,6 +58,19 @@ The papers of the QuSpin library have been published there.
 
 - PLOS One, which ran a special issue focusing on quantum software.  
 
+## Run notebooks interactively on the cloud with My Binder
+[My Binder](https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-the-binder-project)
+allows to run Jupyter Notebooks interactively from the cloud.
+Anyone will be able to run notebooks from your repository, simply with an Internet connection, by clicking on the `binder` icon.
+All you need to do to make `binder` active is:
+ 
+ - Create a file specifying the notebook requirements in the notebooks folder, say `mylibrary/notebooks`. The requirements will likely be equale to the library requirements. This can be a `requirements.txt` using `pip` as default package manager, or a `environment.yaml` file if you wish to use `conda` as package manager (you can also specify to use `pip` in the `environment.yaml` file).
+
+ - Go to [https://mybinder.org/](https://mybinder.org/), paste the name of the repository where the notebooks are collected, say `mylibrary/notebooks`. My Binder will generate a link thayou can embed in the Readme.MD file on Github or in other places. Clicking this link will activate My Binder, which will install the dependencies and library according to the requirements file.
+
 ## Host on JupyterHub
 If you would like your software capabilities to be used by a delocalized team, without even requiring someone to download the software of install it, this can be done with [JupyterHub](https://github.com/jupyterhub/jupyterhub) as well as private services offered by some startups. 
+JupyterHub and BinderHub allow to run notebooks interactively, also setting up specific servers
+(as a machine at a research institution) or using online cloud services (such as Google and AWS). 
+
  
