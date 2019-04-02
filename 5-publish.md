@@ -73,4 +73,6 @@ If you would like your software capabilities to be used by a delocalized team, w
 JupyterHub and BinderHub allow to run notebooks interactively, also setting up specific servers
 (as a machine at a research institution) or using online cloud services (such as Google and AWS). 
 
+## Useful Links
+- [Installing Python Packages from a Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
  
