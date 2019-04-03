@@ -76,3 +76,10 @@ JupyterHub and BinderHub allow to run notebooks interactively, also setting up s
 ## Useful Links
 - [Installing Python Packages from a Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
  
+- [The Littlest JupyterHub](https://github.com/jupyterhub/the-littlest-jupyterhub)
+
+- [My Binder Documentation](https://mybinder.readthedocs.io/en/latest/index.html)
+
+- [Zero to JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
+
+- [BinderHub Documentation (project in development)](https://binderhub.readthedocs.io/en/latest/)
