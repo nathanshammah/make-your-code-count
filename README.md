@@ -9,7 +9,7 @@ Here you will find information to design, build, and release an open-source libr
 
 [0 - Open Source for Open Science](0-open.md): Some information about the Python and open source ecosystem, and how they relate to open science are also given. 
 
-[1- Before Starting Coding](1-code.md): Setting up the working environment on your machine, including the tools you will need to write code efficiently. 
+[1 - Before Starting Coding](1-code.md): Setting up the working environment on your machine, including the tools you will need to write code efficiently. 
 
 [2 - Developing your Project](2-develop.md): A step-by-step guide with best practices for coding, and tips for making code development as effortless as possible.  
 
@@ -27,7 +27,8 @@ Here you will find information to design, build, and release an open-source libr
 ## This Repository
 This library is thought to help you in two ways: 
 
-1) The files in linked above in this README provide a guide that you can navigate to   
+1) The files in linked above in this README provide a guide that you can navigate to learn more.
+  
 2) The folders present in this repository have all the contents to build an example of `mylibrary` and deploy it. You can then modify the contents according to your project. The `mylibrary` folder comprises:
 
 - `mylibrary/mylibrary`: where the code is located;
