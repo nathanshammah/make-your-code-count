@@ -15,7 +15,11 @@ Here you will find information to design, build, and release an open-source libr
 
 [Documentation](4-docs.md): "Code is more often read than written" said Guido Van Rossum, the creator of Python. This is especially true for collaborative projects in the scientific research space, in which researchers might interact with code in a delocalized manner, at different times, and on different time scales. Making good comments of features, from functions to classes, allows one to generate with little effort a full fledged online documentation, drastically increasing the rate of adoption.    
 
-[Publishing](5-publish.md): It's time to release your library. Making importing your library easy is a key feature for its users, potential future contributors. Several tools now allow to deploy code in a variety of environments. As researchers, you are also interested in getting the best out of your research effort, gauging how to publish the research results derived from it. Some examples are given, especially relevant for physicists working in quantum technology. 
+[Distributing](5-distribute.md): It's time to release your library. Making importing your library easy is a key feature for its users, potential future contributors. Several tools now allow to deploy code in a variety of environments using package managers.  
+
+[Publishing](6-publish.md): As a researcher, you are asked to publish your research results. In the case of a code project these can be novel research results derived from the software or the software itself, if it provides an innovative method or approach that can help the research community. Some examples on best practices to publish code and datasets are given, such as considering Zenodo for file hosting and an immediate DOI reference. A list of research journals especially relevant for physicists is provided. 
+
+[Hosting](7-host.md): Interactive notebooks allow users to play with your code effortlessly, without worrying about installing software. They are also a great solution for interactive workshop and in the classroom, as they allow students and in general users to tinker with code without any installation.   
 
 
 ## References
@@ -33,6 +37,6 @@ FOSDEM Conference - Quantum Software Track, Bruxelles, Belgium, [YouTube](https:
 "Bit to QuBit: Data in the age of quantum computers", Shahnawaz Ahmed, 
 [PyData 2018](https://pydata.org/warsaw2018/schedule/presentation/22/), Warsaw, Poland, 2019
 
-["Scientific computing for quantum technology"](https://www.euroscipy.org/2018/descriptions/Scientific%20computing%20for%20quantum%20technology.html), Nathan Shammah, EuroSciPy 2018, Trento, Italy, [YouTube](https://youtu.be/J32Guga4mtM?t=2) , 2018
+["Scientific computing for quantum technology"](https://www.euroscipy.org/2018/descriptions/Scientific%20computing%20for%20quantum%20technology.html), Nathan Shammah, EuroSciPy 2018, Trento, Italy, [YouTube](https://youtu.be/J32Guga4mtM?t=2), 2018
 
 
