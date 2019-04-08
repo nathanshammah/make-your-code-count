@@ -31,3 +31,13 @@ Anaconda is a package manager that comes with a bundle of libraries. For most ca
 - Set up a GitHub personal account. You can use this to manage your folders ("repositories"), copy code, download it and upload it, allowing other users to collaborate to the same project. 
 GitHub is not the only project allowing this, another less popular project is GitLab.
 [https://github.com/join](https://github.com/join).
+
+
+## 0.4 - Get to know your allies 
+- [StackOverflow](https://stackoverflow.com/) is basically a forum where you will most likely end up for code-related questions from an appropriate Google search. Do not worry about ending up there continuously, this happens to most coders, almost every day.  
+
+- [GitHub](https://github.com/) you can sometimes find issues and pull requests (PR) relevant to your problem. Sometimes you might find out that you did everything as supposed to, just the library, protocol or platform itself has an outstanding issue. This can be initially self-reassuring ("Yay! I did everyting right"), before desperation kicks in (you are literally at the border of known solutions, something similar to what happens when you do research... hack a solution or hope someone does it soon enough).
+
+- Libraries documentations: It is sometimes a bit *hard* to understand the documentation of a given function. It just takes time and some practice. 
+
+- Peers: fellow coders or researchers are sometimes the best allies. Before bugging with a random qustion, check that this has not been answered somewhere, but then do not be intimidated by raising an Issue on a project page, making a question on a Google Help group or on [gitter](https://gittter.im/), or just poking the coder down the corridor.    
