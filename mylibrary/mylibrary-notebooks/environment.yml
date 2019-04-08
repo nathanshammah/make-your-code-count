@@ -9,4 +9,3 @@ dependencies:
 - scipy
 - matplotlib
 - notebook
-- qutip
