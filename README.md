@@ -15,13 +15,15 @@ Here you will find information to design, build, and release an open-source libr
 
 [3 - Testing](3-test.md): Especially in software related to scientific research, at start, the destination is not always crystal clear. Code is written, optimized, reorganized. Unit testing is a crucial task to avoid getting lost in the process.  
 
-[4 - Documentation](4-docs.md): "Code is more often read than written" said Guido Van Rossum, the creator of Python. This is especially true for collaborative projects in the scientific research space, in which researchers might interact with code in a delocalized manner, at different times, and on different time scales. Making good comments of features, from functions to classes, allows one to generate with little effort a full fledged online documentation, drastically increasing the rate of adoption.    
+[4 - Packaging](4-package.md): Build your package to import your library like any other library. 
 
-[5 - Distributing](5-distribute.md): It's time to release your library. Making importing your library easy is a key feature for its users, potential future contributors. Several tools now allow to deploy code in a variety of environments using package managers.  
+[5 - Documentation](5-docs.md): "Code is more often read than written" said Guido Van Rossum, the creator of Python. This is especially true for collaborative projects in the scientific research space, in which researchers might interact with code in a delocalized manner, at different times, and on different time scales. Making good comments of features, from functions to classes, allows one to generate with little effort a full fledged online documentation, drastically increasing the rate of adoption.    
 
-[6 - Publishing](6-publish.md): As a researcher, you are asked to publish your research results. In the case of a code project these can be novel research results derived from the software or the software itself, if it provides an innovative method or approach that can help the research community. Some examples on best practices to publish code and datasets are given, such as considering Zenodo for file hosting and an immediate DOI reference. A list of research journals especially relevant for physicists is provided. 
+[6 - Distributing](6-distribute.md): It's time to release your library. Making importing your library easy is a key feature for its users, potential future contributors. Several tools now allow to deploy code in a variety of environments using package managers.  
 
-[7 - Hosting](7-host.md): Interactive notebooks allow users to play with your code effortlessly, without worrying about installing software. They are also a great solution for interactive workshop and in the classroom, as they allow students and in general users to tinker with code without any installation.   
+[7 - Publishing](7-publish.md): As a researcher, you are asked to publish your research results. In the case of a code project these can be novel research results derived from the software or the software itself, if it provides an innovative method or approach that can help the research community. Some examples on best practices to publish code and datasets are given, such as considering Zenodo for file hosting and an immediate DOI reference. A list of research journals especially relevant for physicists is provided. 
+
+[8 - Hosting](8-host.md): Interactive notebooks allow users to play with your code effortlessly, without worrying about installing software. They are also a great solution for interactive workshop and in the classroom, as they allow students and in general users to tinker with code without any installation.   
 
 
 ## This Repository
