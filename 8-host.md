@@ -1,10 +1,10 @@
-# 7 - Hosting
+# 8 - Hosting
 
 
 You might find it useful to have some tools for an online interactive classroom using your library. Online notebooks can be run with [My Binder](https://mybinder.readthedocs.io/en/latest/index.html), while setting up more persistent features could be desirable during educational activities such as workshops and classroom coursework.
 
 
-## 7.1 - Run notebooks interactively on the cloud with My Binder
+## 8.1 - Run notebooks interactively on the cloud with My Binder
 [My Binder](https://mybinder.readthedocs.io/en/latest/introduction.html#what-is-the-binder-project)
 allows to run Jupyter Notebooks interactively from the cloud.
 Anyone will be able to run notebooks from your repository, simply with an Internet connection, by clicking on the `binder` icon.
@@ -15,7 +15,7 @@ All you need to do to make `binder` active is:
  - Go to [https://mybinder.org/](https://mybinder.org/), paste the name of the repository where the notebooks are collected, say `mylibrary/notebooks`. My Binder will generate a link thayou can embed in the Readme.MD file on Github or in other places. Clicking this link will activate My Binder, which will install the dependencies and library according to the requirements file.
 
 
-## 7.2 - Host notebooks on BinderHub
+## 8.2 - Host notebooks on BinderHub
 There has been quite some development in the Project Jupyter community toward this end, which led to [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/index.html) and more recently to [BinderHub](https://binderhub.readthedocs.io/en/latest/), an overlay of JupyterHub focused on notebook hosting.
 
 For the server there are mainly two options:
@@ -35,7 +35,7 @@ For the services, there are possibly two features for the community:
 Features allowing to flesh out your library live could be also implemented in a website with a live interface, such as for [live.sympy.org](https://live.sympy.org/), built upon Google App Engine, or the similar project Sympy Gamma. 
 
 
-## 7.3 - Create an environment on JupyterHub
+## 8.3 - Create an environment on JupyterHub
 If you would like your software capabilities to be used by a delocalized team, without even requiring someone to download the software of install it, this can be done with [JupyterHub](https://github.com/jupyterhub/jupyterhub) as well as private services offered by some startups. 
 JupyterHub and BinderHub allow to run notebooks interactively, also setting up specific servers
 (as a machine at a research institution) or using online cloud services (such as Google and AWS). 

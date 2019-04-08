@@ -1,14 +1,14 @@
-# 5 - Distribute
+# 6 - Distribute
 
 
-## 5.1 - Release the library online
+## 6.1 - Release the library online
 
 - Host the library on GitHub
 
 - List the library on `pip` or on the `conda-forge` channel in order to facilitate the installation of the package. 
 
 
-## 5.2 - The Conda-Forge channel
+## 6.2 - The Conda-Forge channel
 Anaconda comes with a bundle of open source packages. 
 It also allows the community to self mantain a "channel" for a much broader set of libraries, [Conda-Forge](https://conda-forge.org/).
 
@@ -19,6 +19,6 @@ As an user, all one has to do in order to install a given library hosted on cond
 
 As a developer, there are a series of relatively simple steps that one has to follow in order to list the library on conda-forge. 
 
-### 5.3 - Add a recipe
+### 6.3 - Add a recipe
 In order to host your library on conda-forge is to create a file with all the dependencies and system requirements for the given library. 
 This file has a .yaml extension and can be a few lines long. See the guidelines [here](https://conda-forge.org/docs/recipe.html). 

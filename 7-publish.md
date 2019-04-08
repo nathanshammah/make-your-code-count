@@ -1,11 +1,11 @@
-# 6 - Publishing
+# 7 - Publishing
 
 
-## 6.1 - Publish peer-reviewed research papers that use the library 
+## 7.1 - Publish peer-reviewed research papers that use the library 
 This is probably the standard output that scientists as physicists have been aiming at even before the advent of open-source software development. 
 This is still one of the main markers in academic activity. 
 
-## 6.2 - Upload the library or dataset on Zenodo
+## 7.2 - Upload the library or dataset on Zenodo
 [Zenodo](https://zenodo.org/) is a service that allows to publish code, a dataset or a full-fledged library, on an online repository that anyone can access. 
 Zenodo was a project started at CERN with the backing of the European Union and now its use fall perfectly in line with open data policies, such OpenAIRE and EOSC.
 
@@ -21,7 +21,7 @@ For the research community and especially for referees of a paper related to the
 This can help check that a given tool does what it claimed to do at the time of submission. 
 In this way, reproducibility of results is made easiers. 
 
-## 6.3 - Present the library in a peer-reviewed research paper
+## 7.3 - Present the library in a peer-reviewed research paper
 There are now multiple oultlets that are tailored to present software packages that are related to research. 
 A classic one is Computer Physics Communications. 
 
@@ -38,7 +38,7 @@ The papers of the QuSpin library have been published there.
 
 - [Distill.pub](https://distill.pub/about/) is a revolutionary project that aims at coalescing interactive features into a modern article format. 
 
-## 6.4 - Links
+## 7.4 - Links
 
 - [Beyond computational reproducibility, let us aim for reusability](http://gael-varoquaux.info/programming/beyond-computational-reproducibility-let-us-aim-for-reusability.html), gael-varoquaux.info, Gaël Varoquaux, Sept 19th, 2017.
 
