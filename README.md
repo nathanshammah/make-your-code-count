@@ -7,7 +7,9 @@ A cheatsheet to develop a scientific open-source library from scratch.
 Here you will find information to design, build, and release an open-source library to perform scientific research in Python from scratch to finish.
 
 
-[Before Starting Coding](1-code.md): Setting up the environment on your machine, including the tools you will need to write code efficiently. Some information about the Python and open source ecosystem, and how they relate to open science are also given. 
+[Open Source for Open Science](0-open.md): Some information about the Python and open source ecosystem, and how they relate to open science are also given. 
+
+[Before Starting Coding](1-code.md): Setting up the working environment on your machine, including the tools you will need to write code efficiently. 
 
 [Developing your Project](2-develop.md): A step-by-step guide with best practices for coding, and tips for making code development as effortless as possible.  
 
@@ -38,5 +40,3 @@ FOSDEM Conference - Quantum Software Track, Bruxelles, Belgium, [YouTube](https:
 [PyData 2018](https://pydata.org/warsaw2018/schedule/presentation/22/), Warsaw, Poland, 2019
 
 ["Scientific computing for quantum technology"](https://www.euroscipy.org/2018/descriptions/Scientific%20computing%20for%20quantum%20technology.html), Nathan Shammah, EuroSciPy 2018, Trento, Italy, [YouTube](https://youtu.be/J32Guga4mtM?t=2), 2018
-
-

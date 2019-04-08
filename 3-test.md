@@ -1,8 +1,8 @@
-# Testing your code
+# 3 - Testing your code
 
 "Untested code is broken code". Unit testing makes sure that different components of software (each unit) work properly. To do so, all one has to do is to write some functions that perform some basic check of the purported result in a simple instance. 
 
-## Testing locally: writing the tests
+## 3.1 -  Testing locally: writing the tests
 - Set up a file with your testing function. Ideally, each function should have a test function. 
 
 For example, in `test_dicke.py`, there is a class, `TestDicke` testing the `Dicke` class from the `piqs` library,
@@ -34,9 +34,9 @@ if __name__ == "__main__":
     run_module_suite()
 ```
 
-## Testing locally: automated tests
+## 3.2 - Testing locally: automated tests
 - Set up a testing script. There are a couple of options, nose, nose2 and pytest.
 
-## Automated cloud testing
+## 3.3 - Automated cloud testing
 - Set up [Travis CI](https://travis-ci.org). This continuous integration tool checks that every pull request to your GitHub project is always passing the tests according to the specifics set up by you.
 That is, Travis CI every time installs from scratch all the dependencies on a clean machine. 
