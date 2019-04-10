@@ -1,4 +1,4 @@
-# 7 - Publishing
+# 7 - Publishing Your Results
 
 
 ## 7.1 - Publish peer-reviewed research papers that use the library 
@@ -43,3 +43,6 @@ The papers of the QuSpin library have been published there.
 - [Beyond computational reproducibility, let us aim for reusability](http://gael-varoquaux.info/programming/beyond-computational-reproducibility-let-us-aim-for-reusability.html), gael-varoquaux.info, Gaël Varoquaux, Sept 19th, 2017.
 
 - [The Scientific Paper Is Obsolete. Here’s what’s next.](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) *The Atlantic*, James Somers, Apr 5th, 2018.
+
+
+Advance to Section [7 - Hosting Your Notebooks](8-host.md)

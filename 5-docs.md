@@ -1,4 +1,4 @@
-# 5 - Documentation for your code
+# 5 - Writing a Documentation for Your Library
 
 ## 5.1 - Comment your functions
 
@@ -11,3 +11,6 @@ Inter-Sphinx is a feature of Sphyinx that creates an hypertext with functions an
 ## 5.3 - Use readthedocs to host online the documentation 
 
 [Read the docs](https://readthedocs.org/) allows you to host the technical documentation of your library for free at the website `mylibrary.readthedocs.org`. 
+
+
+Advance to Section [6 - Distributing Distributing Your Library](6-distribute.md)

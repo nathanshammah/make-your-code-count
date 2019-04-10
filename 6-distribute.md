@@ -1,4 +1,4 @@
-# 6 - Distribute
+# 6 - Distributing Your Library
 
 
 ## 6.1 - Release the library online
@@ -22,3 +22,6 @@ As a developer, there are a series of relatively simple steps that one has to fo
 ### 6.3 - Add a recipe
 In order to host your library on conda-forge is to create a file with all the dependencies and system requirements for the given library. 
 This file has a .yaml extension and can be a few lines long. See the guidelines [here](https://conda-forge.org/docs/recipe.html). 
+
+
+Advance to Section [7 - Publishing Your Results](7-publish.md)

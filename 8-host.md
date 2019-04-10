@@ -39,3 +39,6 @@ Features allowing to flesh out your library live could be also implemented in a 
 If you would like your software capabilities to be used by a delocalized team, without even requiring someone to download the software of install it, this can be done with [JupyterHub](https://github.com/jupyterhub/jupyterhub) as well as private services offered by some startups. 
 JupyterHub and BinderHub allow to run notebooks interactively, also setting up specific servers
 (as a machine at a research institution) or using online cloud services (such as Google and AWS). 
+
+
+This is the end of this introductory course to making your own open-source scientific library from scratch. If you found some passages wrong, inaccurate or incomplete, or would like to contribute to this project, you can raise an [issue](https://github.com/nathanshammah/opensource/issues) or open a [pull request](https://github.com/nathanshammah/opensource/pulls). 
