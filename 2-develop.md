@@ -1,4 +1,4 @@
-# 2 - Developing your code
+# 2 - Developing Your Code
 
 ## 2.1 - Best practices in code prototyping: PEP 8 and PEP 257
 Professional code developers abide to some prototyping rules. Keeping in mind that code is more read than written, these are best practices that become very useful also for non-professional developers. 
@@ -45,3 +45,6 @@ A quick way to convert .ipynb into .py files is
 This can be done also inside a Jupyter notebook: 
 
 `!ipython nbconvert --to=python config_template.ipynb`
+
+
+Advance to Section [3 - Testing your code](3-test.md)

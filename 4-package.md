@@ -38,3 +38,6 @@ During the elaboration of your project, you might want to try things out and kee
 python develop mylibrary
 ```
 which makes it more agile. 
+
+
+Advance to Section [5 - Writing a Documentation for Your Code](5-docs.md)

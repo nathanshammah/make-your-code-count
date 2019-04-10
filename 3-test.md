@@ -39,4 +39,8 @@ if __name__ == "__main__":
 
 ## 3.3 - Automated cloud testing
 - Set up [Travis CI](https://travis-ci.org). This continuous integration tool checks that every pull request to your GitHub project is always passing the tests according to the specifics set up by you.
-That is, Travis CI every time installs from scratch all the dependencies on a clean machine. 
+That is, Travis CI every time installs from scratch all the dependencies on a clean machine.
+
+
+Advance to Section [4 - Packaging your Library](4-package.md)
+
