@@ -40,4 +40,4 @@ python develop mylibrary
 which makes it more agile. 
 
 
-Advance to Section [5 - Writing a Documentation for Your Code](5-docs.md)
+Advance to Section [5 - Writing a Documentation for Your Code](5-docs.md).

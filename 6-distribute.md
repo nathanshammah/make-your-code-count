@@ -24,4 +24,4 @@ In order to host your library on conda-forge is to create a file with all the de
 This file has a .yaml extension and can be a few lines long. See the guidelines [here](https://conda-forge.org/docs/recipe.html). 
 
 
-Advance to Section [7 - Publishing Your Results](7-publish.md)
+Advance to Section [7 - Publishing Your Results](7-publish.md).
