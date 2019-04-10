@@ -13,4 +13,4 @@ Inter-Sphinx is a feature of Sphyinx that creates an hypertext with functions an
 [Read the docs](https://readthedocs.org/) allows you to host the technical documentation of your library for free at the website `mylibrary.readthedocs.org`. 
 
 
-Advance to Section [6 - Distributing Distributing Your Library](6-distribute.md)
+Advance to Section [6 - Distributing Distributing Your Library](6-distribute.md).

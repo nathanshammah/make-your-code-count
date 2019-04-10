@@ -47,4 +47,4 @@ This can be done also inside a Jupyter notebook:
 `!ipython nbconvert --to=python config_template.ipynb`
 
 
-Advance to Section [3 - Testing your code](3-test.md)
+Advance to Section [3 - Testing your code](3-test.md).

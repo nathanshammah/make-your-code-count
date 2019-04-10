@@ -45,4 +45,4 @@ The papers of the QuSpin library have been published there.
 - [The Scientific Paper Is Obsolete. Here’s what’s next.](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) *The Atlantic*, James Somers, Apr 5th, 2018.
 
 
-Advance to Section [7 - Hosting Your Notebooks](8-host.md)
+Advance to Section [8 - Hosting Your Notebooks](8-host.md).

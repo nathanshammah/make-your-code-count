@@ -79,4 +79,4 @@ Although the word "Issue" sounds quite negative, Issues can be brought up also r
 - [GitHub: Create a repository](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
 
-Advance to Section [2 - Developing Your Code](2-develop.md)
+Advance to Section [2 - Developing Your Code](2-develop.md).

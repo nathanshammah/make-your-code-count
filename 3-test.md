@@ -42,5 +42,5 @@ if __name__ == "__main__":
 That is, Travis CI every time installs from scratch all the dependencies on a clean machine.
 
 
-Advance to Section [4 - Packaging your Library](4-package.md)
+Advance to Section [4 - Packaging your Library](4-package.md).
 
