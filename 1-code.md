@@ -101,6 +101,8 @@ Although the word "Issue" sounds quite negative, Issues can be brought up also r
 - [Add Sublime to the command line](https://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/)
 - [GitHub: Add remote repo](https://help.github.com/articles/adding-a-remote/).
 - [GitHub: Create a repository](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+- [Conda: Manage environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+- [Github: Contribute to an open-source project](https://github.com/qutip/qutip-doc/blob/master/qutip_dev_contrib.md): some guidelines from the QuTiP project. 
 
 
 Advance to Section [2 - Developing Your Code](2-develop.md).
