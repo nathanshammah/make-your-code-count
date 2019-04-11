@@ -37,6 +37,30 @@ There are a few basic concepts to start using git, and they involve some jargon,
 
 `git merge <branch>`: Once you are satisfied with the changes, you are ready to merge the branch back into the master and eventually you can delete the branch. 
 
+### 1.2.3 - A Typical git Workflow
+
+Open the Terminal, navigate to the folder of your repository, such as
+```
+cd github/opensource/mylibrary/mylibrary
+```
+
+You can Make changes to code in your text editor or in a Jupyter Notebook
+```
+git status
+```
+
+```
+git add . 
+```
+
+```
+git commit -m "add small change" 
+```
+
+```
+git push origin [name-of-branch] 
+```
+where you should substitute `[name-of-branch]` with the
 
 ## 1.3 - Using GitHub (or a similar provider)
 GitHub provides the largest collection of code projects in the world. This is an invaluable treasure of searcheable open-source projects from which you can copy, modify, and get inspiration for your own library and benefit as a simple user. As of 2019, Github allows single users also to host private repositories for free. GitHub has been acquired in late 2018 by Microsoft. Other similar services include [Gitlab](https://about.gitlab.com/) and [BitBucket](https://bitbucket.org/).
