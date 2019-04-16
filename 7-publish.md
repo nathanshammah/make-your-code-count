@@ -38,6 +38,8 @@ The papers of the QuSpin library have been published there.
 
 - [Distill.pub](https://distill.pub/about/) is a revolutionary project that aims at coalescing interactive features into a modern article format. 
 
+- [The Journal of Open Source Software](http://joss.theoj.org/) is an open access journal for research software packages; the review process happens on GitHub.
+
 ## 7.4 - Links
 
 - [Beyond computational reproducibility, let us aim for reusability](http://gael-varoquaux.info/programming/beyond-computational-reproducibility-let-us-aim-for-reusability.html), gael-varoquaux.info, Gaël Varoquaux, Sept 19th, 2017.

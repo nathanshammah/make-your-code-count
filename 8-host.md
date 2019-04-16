@@ -41,4 +41,8 @@ JupyterHub and BinderHub allow to run notebooks interactively, also setting up s
 (as a machine at a research institution) or using online cloud services (such as Google and AWS). 
 
 
-This is the end of this introductory course to making your own open-source scientific library from scratch. If you found some passages wrong, inaccurate or incomplete, or would like to contribute to this project, you can raise an [issue](https://github.com/nathanshammah/opensource/issues) or open a [pull request](https://github.com/nathanshammah/opensource/pulls). 
+This is the end of this introductory course to making your own open-source scientific library from scratch. 
+
+A list of [Useful Links](9-links.md) cited in these pages, plus additional others, is collected for your convenience. 
+
+If you found some passages wrong, inaccurate or incomplete, or would like to contribute to this project, you can raise an [issue](https://github.com/nathanshammah/opensource/issues) or open a [pull request](https://github.com/nathanshammah/opensource/pulls). 

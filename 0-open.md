@@ -12,7 +12,7 @@
 ## 0.2 - Why Python
 - Python provides an intuitive syntax that facilitates debugging and focusing on the research project.
 
-- Python is an open-source language that has witnessed a [steady gowth](https://stackoverflow.blog/2017/09/06/incredible-growth-python/) since the 2000s.
+- Python is an open-source language that has witnessed a [steady growth](https://stackoverflow.blog/2017/09/06/incredible-growth-python/) since the 2000s.
 
 - Python provides a rich ecosystem of excellent libraries for numerical and scientific investigations, such as Numpy, Scipy, Matplolib, and Cython.
 
