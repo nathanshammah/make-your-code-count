@@ -41,7 +41,7 @@ Here you will find information to design, build, and release an open-source libr
 - JupyterHub
 - BinderHub
 
-[9 - Useful Link](9-links.md): A collection of useful links is provided. 
+[9 - Useful Links](9-links.md): A collection of useful links is provided. 
 
 ## This Repository
 This library is thought to help you in two ways: 

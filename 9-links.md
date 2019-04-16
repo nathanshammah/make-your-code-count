@@ -52,6 +52,8 @@
 
 [Travis CI](https://travis-ci.org)
 
+[Travis CI tutorial on YouTube](https://www.youtube.com/watch?v=Uft5KBimzyk). 
+
 ### [4 Packaging](4-package.md)
 
  [The hitchhiker's guide to packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html)

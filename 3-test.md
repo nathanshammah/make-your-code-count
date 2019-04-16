@@ -38,9 +38,10 @@ if __name__ == "__main__":
 - Set up a testing script. There are a couple of options, nose, nose2 and pytest.
 
 ## 3.3 - Automated cloud testing
-- Set up [Travis CI](https://travis-ci.org). This continuous integration tool checks that every pull request to your GitHub project is always passing the tests according to the specifics set up by you.
+- Set up [Travis CI](https://travis-ci.org). This continuous integration tool checks that every pull request to your GitHub project is always passing the tests according to the specifics set up by you. 
 That is, Travis CI every time installs from scratch all the dependencies on a clean machine.
 
+A [Travis CI tutorial](https://www.youtube.com/watch?v=Uft5KBimzyk) on YouTube is here. 
 
 Advance to Section [4 - Packaging your Library](4-package.md).
 
