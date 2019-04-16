@@ -100,3 +100,31 @@
 
 [Compare Software Tools on StackShare](https://stackshare.io)
 
+[NumFOCUS](https://numfocus.org)
+
+[QuTiP](http://qutip.org)
+
+[Google Summer of Code (GSoC)](http://summerofcode.withgoogle.com)
+
+[Google Season of Docs (GSoD)](https://developers.google.com/season-of-docs/)
+
+[NumFOCUS GSoC](https://github.com/numfocus/gsoc)
+
+[NumFOCUS GSoD](https://github.com/numfocus/gsod)
+
+[Bokeh Gallery](https://bokeh.pydata.org/en/latest/docs/gallery.html)
+
+[Astropy](https://www.astropy.org/)
+
+[Astropy fosters an ecosystem of interoperable astronomy packages](https://www.astropy.org/affiliated/index.html)
+
+[pypinfo](https://github.com/ofek/pypinfo)
+
+[Getting started in Open Source](https://github.com/numfocus/getting-started-with-open-source/blob/master/)
+
+[List of curated resources to get started in Open Source
+](https://github.com/numfocus/getting-started-with-open-source/blob/master/compilation_of_open_source_resources.md)
+
+[Mozilla Open Science Guide](https://mozillascience.github.io/open-science-leadership-workshop/index.html)
+
+[GitHub Open Source Guide](https://opensource.guide/)
