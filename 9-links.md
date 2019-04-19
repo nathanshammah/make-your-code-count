@@ -66,6 +66,8 @@
 
 ### [6 Distributing](8-distribute.md)
 
+[Real Python Guide to PyPI](https://realpython.com/pypi-publish-python-package/)
+
 [Conda-Forge](https://conda-forge.org/)
 
 [Conda-Forge Recipe](https://conda-forge.org/docs/recipe.html)
