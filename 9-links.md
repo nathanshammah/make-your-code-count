@@ -64,7 +64,7 @@
 
 [Read the docs](https://readthedocs.org/)
 
-### [6 Distributing](8-distribute.md)
+### [6 Distributing](6-distribute.md)
 
 [Real Python Guide to PyPI](https://realpython.com/pypi-publish-python-package/)
 
