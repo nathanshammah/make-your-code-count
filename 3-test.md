@@ -41,7 +41,9 @@ if __name__ == "__main__":
 - Set up [Travis CI](https://travis-ci.org). This continuous integration tool checks that every pull request to your GitHub project is always passing the tests according to the specifics set up by you. 
 That is, Travis CI every time installs from scratch all the dependencies on a clean machine.
 
-A [Travis CI tutorial](https://www.youtube.com/watch?v=Uft5KBimzyk) on YouTube is here. 
+A [Travis CI video tutorial](https://www.youtube.com/watch?v=Uft5KBimzyk) on YouTube is here. 
+
+A [Travis CI step-by-step guide](https://www.raywenderlich.com/1618-travis-ci-tutorial-getting-started). 
 
 Advance to Section [4 - Packaging your Library](4-package.md).
 
