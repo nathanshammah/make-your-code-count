@@ -33,7 +33,7 @@ GitHub is not the only project allowing this, another less popular project is Gi
 
 
 ## 0.4 - Get to know your allies 
-- [StackOverflow](https://stackoverflow.com/) is basically a forum where you will most likely end up for code-related questions from an appropriate Google search. Do not worry about ending up there continuously, this happens to most coders, almost every day.  
+- [StackOverflow](https://stackoverflow.com/) is basically a forum where you will most likely end up for code-related questions from an appropriate Google search. Do not worry about ending up there continuously, this happens to most coders almost every day.  
 
 - [GitHub](https://github.com/) you can sometimes find issues and pull requests (PR) relevant to your problem. Sometimes you might find out that you did everything as supposed to, just the library, protocol or platform itself has an outstanding issue. This can be initially self-reassuring ("Yay! I did everyting right"), before desperation kicks in (you are literally at the border of known solutions, something similar to what happens when you do research... hack a solution or hope someone does it soon enough).
 
