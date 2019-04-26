@@ -3,7 +3,8 @@ Here you will learn how to elevate your code from a file or collection of files 
 
 ## 4.1 -  Installing the library
 Inside a `setup.py` file you save all the information about setting up your library. 
-The hitchhiker's guide to packaging is a [minimal guide](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html) to follow all the steps. Once completed, running from the `mylibrary` folder  
+[Minimal guide to packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html).
+The hitchhiker's guide to packaging is also a [minimal guide](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html) to follow all the steps. Once completed, running from the `mylibrary` folder  
 
 ```
 python setup mylibrary

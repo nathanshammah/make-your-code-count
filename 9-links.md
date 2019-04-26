@@ -56,6 +56,8 @@
 
 ### [4 Packaging](4-package.md)
 
+[Minimal guide to packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html).
+
  [The hitchhiker's guide to packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html)
 
 ### [5 Documenting](5-docs.md)
