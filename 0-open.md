@@ -39,7 +39,7 @@ GitHub is not the only project allowing this, another less popular project is Gi
 
 - Libraries documentations: It is sometimes a bit *hard* to understand the documentation of a given function. It just takes time and some practice. 
 
-- Peers: fellow coders or researchers are sometimes the best allies. Before bugging with a random qustion, check that this has not been answered somewhere, but then do not be intimidated by raising an Issue on a project page, making a question on a Google Help group or on [gitter](https://gittter.im/), or just poking the coder down the corridor.    
+- Peers: fellow coders or researchers are sometimes the best allies. Before bugging with a random qustion, check that this has not been answered somewhere, but then do not be intimidated by raising an Issue on a project page, making a question on a Google Help group or on [gitter](https://gitter.im/), or just poking the coder down the corridor.    
 
 
 Advance to Section [1 - Managing a Code Project](1-code.md).
