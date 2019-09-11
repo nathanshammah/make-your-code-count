@@ -1,4 +1,4 @@
-# A Guide to Building Your Open-Source Science Library
+# `scikit-project`: A Guide to Building Your Open-Source Science Project
 
 A cheatsheet to develop a scientific open-source library from scratch.
 
