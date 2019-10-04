@@ -18,6 +18,35 @@ pip install mylibrary
 
 A detailed guide is present on Real Python, [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/).
 
+You can use [`twine`](https://pypi.org/project/twine/) to register and upload the library. From the Terminal:
+
+```
+pip install twine
+```
+Then go to your library folder, such as `mylibrary/` here, and type 
+
+```
+python setup.py sdist bdist_wheel
+```
+
+which builds a local version ready to be shipped to PyPI. 
+
+Register on [Test PyPI](https://packaging.python.org/guides/using-testpypi/) website. Once you are registered, test with an upload on Test PyPI, so that you will not directly affect PyPI, 
+
+```
+twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+```
+
+You will find your package at the URL
+[https://test.pypi.org/project/<package>](https://test.pypi.org/project/<packaget>), where `<package>` is replaced by the name of the library package, in this tutorial `mylibrary`.
+
+[https://packaging.python.org/guides/using-testpypi/](https://packaging.python.org/guides/using-testpypi/)
+
+
+[https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/](https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/)
+
+[https://caremad.io/posts/2013/07/setup-vs-requirement/](https://caremad.io/posts/2013/07/setup-vs-requirement/)
+
 ## 6.3 - The Conda-Forge channel
 Anaconda comes with a bundle of open source packages. 
 It also allows the community to self mantain a "channel" for a much broader set of libraries, [Conda-Forge](https://conda-forge.org/).
