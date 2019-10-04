@@ -48,7 +48,7 @@ Here you will find information to design, build, and release an open-source libr
 ## This Repository
 This library is thought to help you in two ways:
 
-1) The files linked above in the table of contents above provide a guide that you can navigate to learn more.
+1) The files linked above in the table of contents provide a guide that you can navigate to learn more.
 
 2) The folders present in this repository have all the contents to build an example of `mylibrary` and deploy it. You can then modify the contents according to your project. The `mylibrary` folder comprises:
 
