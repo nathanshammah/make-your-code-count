@@ -61,6 +61,32 @@ The documentation files to modify will be in the `source` folder.
 The `html` and `latex`  and `pdf` files will be automatically created in the
 `docs/build` folder.
 
+- Create a structure of files in .rst or .md with the Guide. The main one
+ could be called `index.rst` and similarly for other uses according to the
+ purposes, for example with `guide.rst` for the guide, and `apidoc.rst` for
+ the automatically generated list of functions and classes (see next).
+
+
+### Automatically generate the documentation from docstrings
+- Add `autodoc` to the extensions in the `conf.py` file
+```bash
+extensions = ['sphinx.ext.autodoc']
+```
+and then modify the `.rst` files giving instructions on how to parse and import
+entire modules or members (functions or classes) of such modules, e.g.,
+the `apidoc.rst` file could look something like
+```bash
+Functions
+----------
+.. automodule:: yourlibrary
+   :members:
+
+.. automodule:: yourlibrary.onemodule
+   :members:
+```
+and so on.
+
+
 ### Generate the HTML
 
 - To generate the `html`,
@@ -69,9 +95,9 @@ make html
 ```
 
 ### Generate the PDF
-- To generate the `html`,
+- To generate the `pdf`,
 ```bash
-make html
+make latexpdf
 ```
 
 
