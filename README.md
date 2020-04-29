@@ -1,5 +1,7 @@
 # `scikit-project`: A Guide to Building Your Open-Source Science Project
 
+[![Unitary Fund](https://img.shields.io/badge/Supported%20By-UNITARY%20FUND-brightgreen.svg?style=for-the-badge)](http://unitary.fund)
+
 A cheatsheet to develop a scientific open-source library from scratch.
 
 ![scikit-project](/images/2019-scikit-project.png?raw=true "scikit-project")
