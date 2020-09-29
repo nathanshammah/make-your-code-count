@@ -54,13 +54,13 @@ git add .
 ```
 
 ```
-git commit -m "add small change" 
+git commit -m "fix a small typo" 
 ```
 
 ```
-git push origin [name-of-branch] 
+git push origin <name-of-branch> 
 ```
-where you should substitute `[name-of-branch]` with the
+where you should substitute `<name-of-branch>` with the name of the branch.
 
 ## 1.3 - Using GitHub (or a similar provider)
 GitHub provides the largest collection of code projects in the world. This is an invaluable treasure of searcheable open-source projects from which you can copy, modify, and get inspiration for your own library and benefit as a simple user. As of 2019, Github allows single users also to host private repositories for free. GitHub has been acquired in late 2018 by Microsoft. Other similar services include [Gitlab](https://about.gitlab.com/) and [BitBucket](https://bitbucket.org/).
