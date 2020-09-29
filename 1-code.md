@@ -97,7 +97,39 @@ To raise an issue, navigate to the repository webpage, such as QuTiP's [`qutip/q
 
 Although the word "Issue" sounds quite negative, Issues can be brought up also regarding enhancements to a project. Once an issue is taken care of, it can be closed.  All closed issues are listed on a repository's page on Github. 
 
-## 1.4 - Useful Links
+## 1.4 - Using Anaconda
+Anaconda is a package manager. You can install it for the command line, so that from the Terminal, you'll be able to install packages with the `conda` prefix as a command. For example:
+```bash
+conda install numpy
+```
+Note that you can install `pip` in `conda` and hence use packages that are distributed only there. For example:
+```bash
+conda install pip
+pip install qiskit
+```
+### 1.4.1 - Creating, activating, deleting a `conda` environment
+Complete information on how to manage environments can be found [here]([Conda: Manage environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)).
+It is particularly helpful to use `conda` to create siloed environments in which to define specific installations of various packages:
+```
+conda create -n myenv
+conda activate myenv
+(myenv) 
+```
+To deactivate a `conda` environment simply do
+```
+(myenv) conda deactivate
+```
+To [delete](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#removing-an-environment) a `conda` environment (this is advised at some point as multiple conda environments can take up Gb of space) type
+```
+conda remove --name myenv --all
+```
+To list your environments
+```
+conda env list
+```
+
+
+## 1.5 - Useful Links
 - [Add Sublime to the command line](https://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/)
 - [GitHub: Add remote repo](https://help.github.com/articles/adding-a-remote/).
 - [GitHub: Create a repository](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
