@@ -6,7 +6,7 @@
 
 Use [Sphinx](http://www.sphinx-doc.org/) to generate an API documentation automatically from the comments present in the .py scripts. You can embellish the API with a User Guide, by writing some specific
 
-Inter-Sphinx is a feature of Sphyinx that creates an hypertext with functions and classes defined in other documentations. For example, you can make every instance of `np.linspace()` in your library's documentation clickable, so that a user can learn of its parameters, output and features directly on NumPy's documentation page.
+Inter-Sphinx is a feature of Sphinx that creates an hypertext with functions and classes defined in other documentations. For example, you can make every instance of `np.linspace()` in your library's documentation clickable, so that a user can learn of its parameters, output and features directly on NumPy's documentation page.
 
 ## Requirements
 The documentation is generated with
@@ -50,7 +50,7 @@ involve creating the `conf.py` file. This can be generated with a wizard
 sphinx-build -b html source build
 ```
 this should generate the `docs/build` folder. This folder is not kept track of
-inthe github repository, as `docs/build` is present in the `.gitignore` file.
+in the github repository, as `docs/build` is present in the `.gitignore` file.
 
 Here above `source` and `build` are the names of the directories.
 
