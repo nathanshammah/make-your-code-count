@@ -8,7 +8,7 @@
 - List the library on `pip` or on the `conda-forge` channel in order to facilitate the installation of the package.
 
 
-## 6.2 - Python Package Index (PyPI)
+## 6.2 - Python Package Index (PyPI) and Test PyPI
 
 It is possible to host your library, e.g., `mylibrary`, onto the Python Package Index (PyPI). This will allow everyone to install it simply with the command
 
@@ -33,8 +33,10 @@ which builds a local version ready to be shipped to PyPI.
 
 Register on [Test PyPI](https://packaging.python.org/guides/using-testpypi/) website. Once you are registered, test with an upload on Test PyPI, so that you will not directly affect PyPI,
 
+Update to 
 ```
-twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+python3 -m twine upload --repository testpypi dist/*
+
 ```
 
 You will find your package at the URL
