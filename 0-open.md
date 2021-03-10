@@ -5,7 +5,7 @@
 
 - Open-source software aligns with the goals of open science, which aims to remove any barrier to knowledge in research and the dissemination of scientific results.
 
-- Making supporting data freely and easily available makes reproducibility tests easier. Eve more, open-source libraries (where a library is a self-contained software package) make code reusable. The shift from just aiming at reproducible data to providing [reusable code](http://gael-varoquaux.info/programming/beyond-computational-reproducibility-let-us-aim-for-reusability.html) can reshape the way scientific discovery is performed.
+- Making supporting data freely and easily available makes reproducibility tests easier. Even more, open-source libraries (where a library is a self-contained software package) make code reusable. The shift from just aiming at reproducible data to providing [reusable code](http://gael-varoquaux.info/programming/beyond-computational-reproducibility-let-us-aim-for-reusability.html) can reshape the way scientific discovery is performed.
 
 - Some of the recent incentives in academia have leaned toward competition and personal achievements, from the focus on metrics of published papers to personal citations. Open-source libraries can in many cases realign collaboration and cooperation with scientific progress.
 
