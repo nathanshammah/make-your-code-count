@@ -77,3 +77,5 @@ FOSDEM Conference - Quantum Software Track, Bruxelles, Belgium, [YouTube](https:
 [PyData 2018](https://pydata.org/warsaw2018/schedule/presentation/22/), Warsaw, Poland, [YouTube](https://www.youtube.com/watch?v=6GAXJhL1mSs), 2019
 
 ["Scientific computing for quantum technology"](https://www.euroscipy.org/2018/descriptions/Scientific%20computing%20for%20quantum%20technology.html), Nathan Shammah, EuroSciPy 2018, Trento, Italy, [YouTube](https://youtu.be/J32Guga4mtM?t=2), 2018
+
+
