@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'mylibrary'
-copyright = '2020, Shahnawaz Ahmed, Nathan Shammah'
-author = 'Shahnawaz Ahmed, Nathan Shammah'
+copyright = '2020, Nathan Shammah, Shahnawaz Ahmed'
+author = 'Nathan Shammah, Shahnawaz Ahmed'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
