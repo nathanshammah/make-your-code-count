@@ -2,3 +2,4 @@ mylibrary
 build
 dist
 mylibrary.egg-info
+.DS_Store

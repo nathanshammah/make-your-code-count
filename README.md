@@ -1,4 +1,5 @@
-# `scikit-project`: A Guide to Building Your Open-Source Science Project
+# Make your code count
+A Guide to building your open-source scientific computing project in Python.
 
 [![Unitary Fund](https://img.shields.io/badge/Supported%20By-UNITARY%20FUND-brightgreen.svg?style=for-the-badge)](http://unitary.fund)
 
